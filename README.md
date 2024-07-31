@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/q7vhqNY/neofusion-posting.png" alt="posting" />
+    <img src="https://i.ibb.co/pKvBkGB/posting-neofusion.png" alt="posting" />
 </p>
 
 
